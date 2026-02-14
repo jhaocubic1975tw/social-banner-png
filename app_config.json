@@ -1,0 +1,8 @@
+{
+  "project_id": "LED_MARQUEE_2024_TW",
+  "version": 1,
+  "config_date": "2026-02-14",
+  "release_flag": 0,
+  "click_threshold": 15,
+  "default_text_size_stage": 4
+}
